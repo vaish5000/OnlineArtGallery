@@ -127,10 +127,6 @@ include("includes/head.php"); ?>
 
 <br><br><strong>19BCE0041-</strong><strong>PILLA VAISHNO MOHAN</strong> 
 
-<br><br><strong>19BCE2187-</strong><strong>D B V G LAKSHMAN</strong> 
-
-<br><br><strong>19BCE0168-</strong><strong>D C S MANIKANTA</strong> 
-
 <br><br>ART<strong>GALLERY</strong> Your Very Own Artspace, is designed to bring the art gallery exhibitions online
 
 <br><br>ART<strong>GALLERY's</strong> curated exhibitions provide audiences with an opportunity to experience different approaches and execution styles of art. The artists, both local and international, are often provided the opportunity to exhibit the work they have created at the end of their residency.
